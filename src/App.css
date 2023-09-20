@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@300;400;500;600&display=swap');
+
+body{
+  font-family: 'Quicksand';
+}
+
+.alert{
+  z-index: 9999;
+}
+
+.logout{
+  color: white;
+  position: absolute;
+  right: 10px;
+}
+.logout button{
+  background-color: transparent;
+  color: white;
+  border: none;
+}
